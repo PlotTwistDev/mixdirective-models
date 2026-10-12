@@ -1,0 +1,11 @@
+Mix Directive dereverb network
+
+Copyright (c) 2026 Mix Directive. All rights reserved.
+
+These model weights are made available solely so that the Mix Directive
+application can download and run them. No other use, copying, modification
+or redistribution is permitted without written permission.
+
+The network was trained by Mix Directive on generated rooms and on dry
+recordings from VocalSet and the CSTR VCTK Corpus (both CC BY 4.0); see
+README.md for attribution. No recordings from those datasets are included.
